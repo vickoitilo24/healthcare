@@ -5,15 +5,28 @@ This project showcases an **interactive healthcare data analysis dashboard** bui
 It summarizes **key healthcare metrics, patient demographics, medical conditions, billing details, and yearly trends** to help hospitals and administrators make data-driven decisions.  
 
 ---
+  
+## 📊 Dashboard Data  
+[Click here to view the Excel dashboard data](https://tinyurl.com/48rxsmwu)
 
-## 📊 Dashboard Overview :(https://1drv.ms/x/c/d335c3bc9aef1a6f/EW8a75q8wzUggNNxAAAAAAABjx-g90mnz7XEohm6xmgp_A?e=EWVAGj)
 
+
+-------
 ### 🔹 1. Patient Demographics  
 - **By Gender:** Male – 27,774; Female – 27,726  
 - **By Age Group:** Majority patients between **41–50 years (9,229)** and **51–60 years (8,103)**  
 - **By Blood Group:** Top groups include **B+ (6,944)**, **O+ (6,917)**, **A+ (6,956)**  
 
 ---
+## 📸 Dashboard Screenshots  
+
+### 1️⃣  Healthcare Analysis Overview & Yearly Trends 
+<img width="641" height="446" alt="image" src="https://github.com/user-attachments/assets/85af4302-cd75-49f9-bcfa-3870b688ad89" />
+
+### 2️⃣  Patient Demographics & Medical Insights  
+<img width="482" height="324" alt="image" src="https://github.com/user-attachments/assets/179f4e6f-8925-417b-bb39-a24e9e550694" />
+ 
+
 
 ### 🔹 2. Medical Insights  
 - Common medical conditions:  
@@ -67,7 +80,7 @@ It summarizes **key healthcare metrics, patient demographics, medical conditions
 - **Excel** – Data cleaning & pre-processing  
 ---
 
-## 📖 Key Insights  
+## 📖 Key Insights 
 - Hypertension and diabetes are the **most common medical conditions**.  
 - **Age group 41–60 years** accounts for the largest patient segment.  
 - **United Health insurance** covers the highest number of patients.  
